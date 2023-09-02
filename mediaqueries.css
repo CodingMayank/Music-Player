@@ -1,0 +1,36 @@
+@media (max-width:600px) {
+    .player{
+        height:100vh;
+    }
+    .track-name{
+        font-size:1.5rem;
+    }
+    .track-artist{
+        font-size:1rem;
+    }
+    .seek_slider {
+        width: 50%;
+    }
+    .volume_slider {
+        width: 20%;
+    }
+    .buttons{
+        font-size:3vw;
+    }
+    .wrapper{
+        background:#CEC6C6;
+    }
+    .contacts span{
+        display:none;
+    }
+    .contacts{
+        gap:0vw;
+    }
+    .social button{
+        font-size:4.3vw;
+        margin-top:10px;
+    }
+    .social button:nth-child(1){
+        margin-left:10px;
+    }
+}
